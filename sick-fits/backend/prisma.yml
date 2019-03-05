@@ -1,6 +1,6 @@
 #endpoint: ${env:PRISMA_ENDPOINT}
 endpoint: https://us1.prisma.sh/brandon-fiebiger/sickkk-fitzzzz/dev
-datamodel: datamodel.graphql
+datamodel: datamodel.prisma
 # secret: ${env:PRISMA_SECRET}
 hooks: 
   post-deploy:

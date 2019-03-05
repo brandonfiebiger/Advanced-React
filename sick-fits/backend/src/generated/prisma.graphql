@@ -1,5 +1,5 @@
 # source: https://us1.prisma.sh/brandon-fiebiger/sickkk-fitzzzz/dev
-# timestamp: Tue Feb 26 2019 18:05:36 GMT-0700 (MST)
+# timestamp: Mon Mar 04 2019 22:47:24 GMT-0700 (MST)
 
 type AggregateItem {
   count: Int!
